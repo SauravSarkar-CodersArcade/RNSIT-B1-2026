@@ -1,0 +1,19 @@
+# ===== Java =====
+*.class
+/out/
+/target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# ===== C / C++ =====
+*.exe
+*.o
+*.obj
+*.out
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
