@@ -1,3 +1,5 @@
+package com.basics;
+
 public class FinalKeyword {
     {
         System.out.println("IIB 2"); // Instance Initializer Block

@@ -1,7 +1,5 @@
 package com.dsa.algos.backtracking;
-
 import java.util.Scanner;
-
 public class RatInAMaze {
     public static boolean isPathSafe(int[][] arr, int x, int y, int n){
         return (x < n && y < n && arr[x][y] == 1);

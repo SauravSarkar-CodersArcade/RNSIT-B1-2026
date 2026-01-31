@@ -1,3 +1,5 @@
+package com.basics;
+
 public class Arrays {
     public static void main(String[] saurav) { // BOSCH - O(n)
         System.out.println(saurav[0]);
